@@ -4406,10 +4406,10 @@ graceful-fs@^4.1.15, graceful-fs@^4.1.2:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
   integrity sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw==
 
-gridjs@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/gridjs/-/gridjs-3.2.0.tgz#e5b2c97f6ffc37876aa4b6b86392a1a28131d6d2"
-  integrity sha512-6A5ZyXiaMUc2V0RGbr9anMMYEyDATqCVnOteDG7TJNBpTVG7wr6db9nINvMC2VuqHqRzbyVZdUW++jbujZZiQg==
+gridjs@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/gridjs/-/gridjs-3.3.0.tgz#09a3d69d1cd5a35ef165b0d32cddaad88c9b0a18"
+  integrity sha512-Hbahuhf+71rwq/UzP/Goj3TWYfJs3wwXKzN7SnZfQJ55aw/bZcPekck/gLE+a0ixx4WwtfwVeGtGH0Qx2xHOcw==
   dependencies:
     preact "^10.5.7"
     tslib "^2.0.1"
